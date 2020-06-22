@@ -2,15 +2,15 @@
     <channel>
         <title>Tyna&#39;s Playground</title>
         <link>http://example.org/</link>
-        <description>Tyna&#39;s Playground</description>
+        <description>Musings by Tyna</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jun 2020 15:03:08 -0700</lastBuildDate>
             <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>My Unique First Post</title>
-    <link>http://example.org/posts/my-first-post/</link>
+    <link>http://example.org/my-first-post/</link>
     <pubDate>Sat, 20 Jun 2020 15:03:08 -0700</pubDate>
     <author>Author</author>
-    <guid>http://example.org/posts/my-first-post/</guid>
+    <guid>http://example.org/my-first-post/</guid>
     <description><![CDATA[This is the first post of my Git page, which I hope will serve as repository for various musings and explorations.]]></description>
 </item></channel>
 </rss>
