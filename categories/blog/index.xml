@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Blog - Category - Tyna&#39;s Playground</title>
+        <link>http://feloundo.github.io/categories/blog/</link>
+        <description>Blog - Category - Tyna&#39;s Playground</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 20 Jun 2020 15:03:08 -0700</lastBuildDate><atom:link href="http://feloundo.github.io/categories/blog/" rel="self" type="application/rss+xml" /><item>
+    <title>My Unique First Post</title>
+    <link>http://feloundo.github.io/my-first-post/</link>
+    <pubDate>Sat, 20 Jun 2020 15:03:08 -0700</pubDate>
+    <author>Author</author>
+    <guid>http://feloundo.github.io/my-first-post/</guid>
+    <description><![CDATA[This is the first post of my Git page, which I hope will serve as repository for various musings and explorations.]]></description>
+</item></channel>
+</rss>
