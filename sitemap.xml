@@ -2,12 +2,12 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>http://feloundo.github.io/categories/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://feloundo.github.io/categories/documentation/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://feloundo.github.io/tags/guides/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://feloundo.github.io/how-to-hugo/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://feloundo.github.io/posts/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://feloundo.github.io/tags/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://feloundo.github.io/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://feloundo.github.io/categories/blog/</loc><lastmod>2020-06-20T15:03:08-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>http://feloundo.github.io/my-first-post/</loc><lastmod>2020-06-20T15:03:08-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
+            <loc>http://feloundou.github.io/categories/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://feloundou.github.io/categories/documentation/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://feloundou.github.io/tags/guides/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://feloundou.github.io/how-to-hugo/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://feloundou.github.io/posts/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://feloundou.github.io/tags/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://feloundou.github.io/</loc><lastmod>2020-06-21T18:59:23-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://feloundou.github.io/categories/blog/</loc><lastmod>2020-06-20T15:03:08-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://feloundou.github.io/my-first-post/</loc><lastmod>2020-06-20T15:03:08-07:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>

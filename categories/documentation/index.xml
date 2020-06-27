@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Documentation - Category - Tyna&#39;s Playground</title>
-        <link>http://feloundo.github.io/categories/documentation/</link>
+        <link>http://feloundou.github.io/categories/documentation/</link>
         <description>Documentation - Category - Tyna&#39;s Playground</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 Jun 2020 18:59:23 -0700</lastBuildDate><atom:link href="http://feloundo.github.io/categories/documentation/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sun, 21 Jun 2020 18:59:23 -0700</lastBuildDate><atom:link href="http://feloundou.github.io/categories/documentation/" rel="self" type="application/rss+xml" /><item>
     <title>How to Hugo</title>
-    <link>http://feloundo.github.io/how-to-hugo/</link>
+    <link>http://feloundou.github.io/how-to-hugo/</link>
     <pubDate>Sun, 21 Jun 2020 18:59:23 -0700</pubDate>
     <author>Author</author>
-    <guid>http://feloundo.github.io/how-to-hugo/</guid>
+    <guid>http://feloundou.github.io/how-to-hugo/</guid>
     <description><![CDATA[1. Create Personal Github Page. The first step in creating your Git Page is to navigate to your designated GitHub repo and create a repository in the format &lt;USERNAME&gt;.github.io. Your reference guide for this step is the official Git Pages guide.
 Pro-Tip: Note that it is imperative that &lt;USERNAME&gt; exactly matches your repo&rsquo;s username, or it will not work.
 2. Install Hugo. You can navigate the Hugo installation guide, to install, setup and launch your local toy webpage.]]></description>
